@@ -6,3 +6,5 @@ Learned :
 Why Next.js is better than React.js 
 Next.js is very easy in terms of routing pages instead of React-router hook.
 How to connect with you app with nsql database (MongoDB atlas).
+
+The app is deployed on Vercel (a project by Next.js team). Link: https://nextjs-course-demo-phi-drab.vercel.app/
